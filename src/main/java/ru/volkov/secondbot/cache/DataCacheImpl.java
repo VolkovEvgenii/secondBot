@@ -27,7 +27,7 @@ public class DataCacheImpl implements DataCache{
     public BotState getUsersCurrentBotState(int userId) {
         BotState state = usersBotStates.get(userId);
         if(state == null) {
-            state = BotState.ASK_DENSITY;
+            state = BotState.ASK_DESTINY;
         }
         return state;
     }

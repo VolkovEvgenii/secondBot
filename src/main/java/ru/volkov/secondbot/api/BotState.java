@@ -1,7 +1,7 @@
 package ru.volkov.secondbot.api;
 
 public enum BotState {
-    ASK_DENSITY,
+    ASK_DESTINY,
     ASK_NAME,
     ASK_AGE,
     ASK_GENDER,

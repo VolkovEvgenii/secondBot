@@ -43,7 +43,7 @@ public class BotStateContext {
             case ASK_MOVIE:
             case ASK_GENDER:
             case ASK_NUMBER:
-            case ASK_DENSITY:
+            case ASK_DESTINY:
             case FILLING_PROFILE:
             case PROFILE_FILLED:
                 return true;
